@@ -1,0 +1,171 @@
+*{
+	outline: 0;
+	padding: 0;
+	margin: 0;
+}
+
+.body{
+	width: 1200px;
+	font-family: cursive;
+	font-size: 20px;
+	color: whitesmoke;
+	margin: 0 auto;
+}
+
+.header{
+	height: 100px;
+	
+	color: blueviolet;
+	margin: 0 auto;
+}
+
+
+.wraper{
+	width: 1200px;
+	margin: 0 auto;
+	
+
+}
+.icon{
+	float: right;
+	margin-top: 25px;
+	margin: 25px 25px;
+	padding: 10px 20px;
+}
+
+.fa {
+    color: blue;
+    font-size: 30px !important;
+}
+
+
+.icon img{
+    height: 43px;
+    display: block;
+    overflow: hidden;
+}
+
+.logo{
+	float: left;
+	overflow: hidden;
+	}
+
+
+.nav{
+	height: 40px;
+	background: darkcyan;
+}
+
+.nav ul{
+
+}
+
+.nav ul li{list-style: none;}
+.nav ul li a{
+	float: right;
+	font-family: verdana;
+	font-size: 18.px;
+	color: whitesmoke;
+	margin: 10px 20px;
+	text-decoration: none;
+}
+
+.nav ul li a:hover{
+    float: right;
+    padding: 12px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    font-family: revert;
+    border-right: 1px solid #c2baba;
+    background: #c9659a;
+}
+
+.main{
+	height: 1200px;
+	width:1200 ;
+	background:#ddd;
+	display: block;
+	overflow: hidden;
+	margin-top: 4px;
+	
+}
+
+.maincontent{
+	height: 1200px;
+	width: 69.5%;
+	float: left;
+	background: darkgray;
+}
+
+
+.maincontent img {
+    float: left;
+    margin-right: 15px;
+}
+.maincontent h1 {
+    font-family: cursive;
+    font-size: 30px;
+    color: white;
+    background: #0848f7;
+    padding: 5px;
+    border-bottom: 3px solid #008b8b;
+
+}
+
+.maincontent p {
+    font-size: 18px;
+    font-family: arial;
+    color: black ;
+    padding: 14px;
+    text-align: justify;
+}
+
+.rd{}
+
+.rd a {
+    text-decoration: none;
+    color: #fff;
+    border-bottom: 2px solid #c5c5c5;
+    background: #008b8b;
+    padding: 6px 15px;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+
+
+.sidebar{
+	height: 1200;
+	width: 30%;
+	float: right;
+	display: block;
+	overflow: hidden;
+	background: white ;
+
+
+}
+.sidebar1 {
+	height: 30px;
+	background: #0848f7;
+	border-bottom: 2px solid;
+	border-color: #008b8b;
+	text-align: center;
+	font-family: revert;
+    font-size:18px;
+    color: white;
+}
+
+.pera{
+	font-family: revert;
+	font-size: 20px;
+	color: black;
+	text-align: justify;
+}
+
+.h1{
+
+}
+
+.rd.{}
+
